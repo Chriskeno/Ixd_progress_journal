@@ -48,7 +48,6 @@ Week Five
 ---------
 >##[*Colour*] (https://www.flickr.com/photos/134990026@N08/albums/72157658763426753/ "colour")
 Taking one of our previous projects we had revisit it using colour. Considering how complimentary, analagous or primary/secondary colours affect the design.
->[colour] (https://www.flickr.com/photos/134990026@N08/albums/72157658763426753/ "adding colour")
 
 
 Week Seven-Twelve Screen
@@ -58,4 +57,5 @@ Week Seven-Twelve Screen
 >####Week Six
 *Taking the raw John Baskerville text as our starting point we ceated a simple [HTML5 page - version 1] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version1.html) on our GitHub page.*
 >[HTML page - version 2] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version2.html)
+
 >[HTML page - version 3] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version3.html)
