@@ -40,13 +40,13 @@ Project 01
 
 Week Four
 ---------
->##*Type* 
+>##[*Type*] (https://www.flickr.com/photos/134990026@N08/albums/72157661093038001/ "type")  
 >We had to use 1 'M' in 20 a variety of ways, we then had to choose two letters and join them in six ways and then complete a kerning exercise. 
 >In addition to these, this weeks task was to create a [Movie Poster] (https://www.flickr.com/photos/134990026@N08/albums/72157661093038001/ "Movie Poster") in the minimalist style of Josef Müller Brockmann. 
 
 Week Five
 ---------
->##*Colour*
+>##[*Colour*] (https://www.flickr.com/photos/134990026@N08/albums/72157658763426753/ "colour")
 Taking one of our previous projects we had revisit it using colour. Considering how complimentary, analagous or primary/secondary colours affect the design.
 >[colour] (https://www.flickr.com/photos/134990026@N08/albums/72157658763426753/ "adding colour")
 
