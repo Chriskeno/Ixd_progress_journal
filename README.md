@@ -55,8 +55,14 @@ Week Seven-Twelve Screen
 >###Using the story of John Baskerville as a starting point the screen-based exercises will ground us with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
 >####Week Six
-*Taking the raw John Baskerville text as our starting point we ceated a simple [HTML5 page - version 1] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version1.html) on our GitHub page.*
+*Taking the raw John Baskerville text as our starting point we ceated a simple [HTML5 page - version 1] (https://Chriskeno.github.io/john-baskerville/john_baskerville_version1.html) on our GitHub page.*
 
->[HTML page - version 2] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version2.html)
++ [Version1](https://Chriskeno.github.io/john-baskerville/john_baskerville_version1.html)- John Baskerville
+ 
+9th November 2015
 
->[HTML page - version 3] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version3.html)
++ [Version2](https://Chriskeno.github.io/john-baskerville/john_baskerville_version2.html)- added lists
+
+9th November 2015
+
++ [Version3](https://Chriskeno.github.io/john-baskerville/john_baskerville_version3.html)- added links and anchors
