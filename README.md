@@ -53,7 +53,7 @@ Taking one of our previous projects we had revisit it using colour. Considering 
 
 Week 7-12 Screen
 --------
->##Using the story of John Baskerville as a starting point the screen-based exercises will ground us with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
+>#Using the story of John Baskerville as a starting point the screen-based exercises will ground us with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
 Week 6
 ------
