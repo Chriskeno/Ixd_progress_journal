@@ -70,4 +70,4 @@ Week 7
 
 >[HTML page - version 2] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version2.html "version 2")
 
->[HTML page - version 3] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version3.html "version ")
+>[HTML page - version 3] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version3.html "version 3")
