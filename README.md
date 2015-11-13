@@ -26,7 +26,7 @@ Week 3
 
 Project 01
 ----------
->>##[Type Poster] (https://www.flickr.com/photos/134990026@N08/albums/72157660309919248 "Type Poster").
+>>##[Type Poster] (https://www.flickr.com/photos/134990026@N08/albums/72157660309919248 "Type Poster")
 >*Task:Our first project for this module was to create an A3 Type Specimen Poster based on one of the fonts.
 <ul>
 <li>Jenson</li>
