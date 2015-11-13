@@ -60,7 +60,7 @@ Week 6
 >##[HTML] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
 >Taking the raw John Baskerville text as our starting point we ceated a simple HTML page on our GitHub page.
 
->[HTML5 page - version 1] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version1.html)
+>[HTML5 page - version 1] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version1.html "version 1")
 
 
 Week 7
@@ -68,6 +68,6 @@ Week 7
 >##[HTML] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
 *we improved upon our John Baskerville text and created 2 more versions; version 2 was with the addition of lists, and version 3 was with the addition of links and page anchors.
 
->[HTML page - version 2] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version2.html)
+>[HTML page - version 2] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version2.html "version 2")
 
->[HTML page - version 3] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version3.html)
+>[HTML page - version 3] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version3.html "version ")
