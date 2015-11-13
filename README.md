@@ -10,23 +10,23 @@ Hello there
 
 Week One
 --------
->##[Point] (https://www.flickr.com/photos/134990026@N08/albums/72157660307583438/ "Point"). 
+>##[Point] (https://www.flickr.com/photos/134990026@N08/albums/72157660307583438 "Point"). 
 >*Task: 1 Point, 2 Points, 3 Points, 5 Points & 50 Points. Our task was to be creative and design a series of phone backgrounds using point and circles.*
 
 Week Two
 --------
->##[Line] (https://www.flickr.com/photos/134990026@N08/albums/72157661091725925/ "Line").
+>##[Line] (https://www.flickr.com/photos/134990026@N08/albums/72157661091725925 "Line").
 >*Task: 1 Line, 2 Lines, 3 Lines, 5 Lines & 50 Lines. As with 'week 1' we then had to create a series of laptop backgrounds using lines.*
 
 Week Three
 --------
->##[Plane] (https://www.flickr.com/photos/134990026@N08/albums/72157661019762486/ "Plane").
+>##[Plane] (https://www.flickr.com/photos/134990026@N08/albums/72157661019762486 "Plane").
 >*Task: 1 Plane, 2 Planes and 9 Planes. For week 3 we had create our own fonts using Fontstruct using plane and shapes*
 
 
 Project 01
 ----------
->>##[Type Poster] (https://www.flickr.com/photos/134990026@N08/albums/72157660309919248/ "Type Poster").
+>>##[Type Poster] (https://www.flickr.com/photos/134990026@N08/albums/72157660309919248 "Type Poster").
 >*Task:Our first project for this module was to create an A3 Type Specimen Poster based on one of the fonts.
 <ul>
 <li>Jenson</li>
@@ -40,13 +40,13 @@ Project 01
 
 Week Four
 ---------
->##[*Type*] (https://www.flickr.com/photos/134990026@N08/albums/72157661093038001/ "type")  
+>##[*Type*] (https://www.flickr.com/photos/134990026@N08/albums/72157661093038001 "type")  
 >We had to use 1 'M' in 20 a variety of ways, we then had to choose two letters and join them in six ways and then complete a kerning exercise. 
->In addition to these, this weeks task was to create a [Movie Poster] (https://www.flickr.com/photos/134990026@N08/albums/72157658763959083/ "Movie Poster") in the minimalist style of Josef Müller Brockmann. 
+>In addition to these, this weeks task was to create a [Movie Poster] (https://www.flickr.com/photos/134990026@N08/albums/72157658763959083 "Movie Poster") in the minimalist style of Josef Müller Brockmann. 
 
 Week Five
 ---------
->##[*Colour*] (https://www.flickr.com/photos/134990026@N08/albums/72157658763426753/ "colour")
+>##[*Colour*] (https://www.flickr.com/photos/134990026@N08/albums/72157658763426753 "colour")
 Taking one of our previous projects we had revisit it using colour. Considering how complimentary, analagous or primary/secondary colours affect the design.
 
 
