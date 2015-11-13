@@ -58,7 +58,9 @@ Week 7-12 Screen
 Week 6
 ------
 >##[HTML] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
->Taking the raw John Baskerville text as our starting point we ceated a simple [HTML5 page - version 1] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version1.html) on our GitHub page.
+>Taking the raw John Baskerville text as our starting point we ceated a simple HTML page on our GitHub page.
+
+>[HTML5 page - version 1] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version1.html)
 
 
 Week 7
