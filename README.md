@@ -52,18 +52,20 @@ Taking one of our previous projects we had revisit it using colour. Considering 
 
 
 Week 7-12 Screen
-------------------------
->###Using the story of John Baskerville as a starting point the screen-based exercises will ground us with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
+--------
+>##Using the story of John Baskerville as a starting point the screen-based exercises will ground us with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
->####Week 6
----------
+Week 6
+------
 >##[HTML] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
 >Taking the raw John Baskerville text as our starting point we ceated a simple [HTML5 page - version 1] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version1.html) on our GitHub page.*
 
 
->####week 7
----------
+Week 7
+------
 >##[HTML] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
 *we improved upon our John Baskerville text and created 2 more versions; version 2 was with the addition of lists, and version 3 was with the addition of links and page anchors.
+
 >[HTML page - version 2] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version2.html)
+
 >[HTML page - version 3] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version3.html)
