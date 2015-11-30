@@ -82,14 +82,14 @@ We learned to add images to our Baskerville text and also how to resize images.
 
 Week 9
 ------
->##[HTML] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
+>##[CSS] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
 we learned how to style our Baskerville pages by adding the first set of CSS rules
 >[HTML page - version 5](https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version5.html "version 5") 
 
 
 Week 10
 ------
->##[HTML] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
+>##[CSS] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
 we worked with CSS reset and restyled the Baskerville pages
 >[HTML page - version 6](https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version6.html "version 6")
 
