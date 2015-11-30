@@ -66,7 +66,7 @@ Week 6
 Week 7
 ------
 >##[HTML] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/readme2.md "HTML work")
-*we improved upon our John Baskerville text and created 2 more versions; version 2 was with the addition of lists, and version 3 was with the addition of links and page anchors.
+we improved upon our John Baskerville text and created 2 more versions; version 2 was with the addition of lists, and version 3 was with the addition of links and page anchors.
 
 >[HTML page - version 2] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version2.html "version 2")
 
