@@ -9,8 +9,8 @@ Hello there
 
 Week 1
 --------
->##[Paper]
->*Tasks: Today we learned the importance of working on paper first before developing anything on screen.
+>##Paper
+>Tasks: Today we learned the importance of working on paper first before developing anything on screen.
 
 
 Week 2
