@@ -7,18 +7,22 @@ Hello there
 <li>http://chriskeno.github.io/hello-world-page/</li>
 </ul>
 
-
 Week 1
+--------
+>##[Paper]
+>*Taks: Today we learned the importance of working on paper first before developing anything on screen. 
+
+Week 2
 --------
 >##[Point] (https://www.flickr.com/photos/134990026@N08/albums/72157660307583438/ "Point")
 >*Task: 1 Point, 2 Points, 3 Points, 5 Points & 50 Points. Our task was to be creative and design a series of phone backgrounds using point and circles.*
 
-Week 2
+Week 3
 --------
 >##[Line] (https://www.flickr.com/photos/134990026@N08/albums/72157661091725925/ "Line")
 >*Task: 1 Line, 2 Lines, 3 Lines, 5 Lines & 50 Lines. This week we had a taks to create a series of laptop backgrounds using lines.*
 
-Week 3
+Week 4
 --------
 >##[Plane] (https://www.flickr.com/photos/134990026@N08/albums/72157661019762486/ "Plane")
 >*Task: 1 Plane, 2 Planes and 9 Planes. For week 3 we had to create our own fonts using Fontstruct using plane and shapes. To do this we used FontStruct.*
@@ -39,13 +43,13 @@ Project 01
 </ul>*
 >I chose Bodoni for my specimen type poster.
 
-Week 4
+Week 5
 ---------
 >##*Type* 
 >We had to use the letter 'M' in a variety of ways, and then had to choose two letters and join them in six ways and then complete a kerning exercise, experimenting with the space between letters.. 
 >In addition to these, this weeks task was to create a [Movie Poster] (https://www.flickr.com/photos/134990026@N08/albums/72157661093038001/ "Movie Poster") in the minimalist style of Josef Müller Brockmann. 
 
-Week 5
+Week 6
 ---------
 >##*Colour*
 Taking one of our previous projects we had revisit it using colour. Considering how complimentary, analagous or primary/secondary colours affect the design.
@@ -56,26 +60,31 @@ Week 7-12 Screen
 ------------------------
 >###Using the story of John Baskerville as a starting point the screen-based exercises will ground us with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
->####Week 6
+>####Week 7
 *Taking the raw John Baskerville text as our starting point we ceated a simple [HTML5 page - version 1] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version1.html "version 1") on our GitHub page.*
 
 
->***week 7
+>***week 8
 *we improved upon our John Baskerville text and created 2 more versions; version 2 was with the addition of lists, and version 3 was with the addition of links and page anchors.
 >[HTML page - version 2] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version2.html "version 2")
 >[HTML page - version 3] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version3.html "version 3")
 
 
->***Week 8
+>***Week 9
 *We learned to add images to our Baskerville text and also how to resize images.
 >[HTML page - version 4] (https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version4.html "version 4")
 
 
->***Week 9
+>***Week 10
 *we learned how to style our Baskerville pages by adding the first set of CSS rules
 >[HTML page - version 5](https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version5.html "version 5") 
 
 
->***Week 10
+>***Week 11
 *we worked with CSS reset and restyled the Baskerville pages
 >[HTML page - version 6](https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version6.html "version 6") 
+
+
+>***Week 12
+*we worked with CSS reset and restyled the Baskerville pages
+>[HTML page - version 7](https://github.com/Chriskeno/john-baskerville/blob/gh-pages/john_baskerville_version7.html "version 7") 
